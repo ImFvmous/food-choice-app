@@ -75,9 +75,6 @@ italian_spots_vacaville = [
     "Round Table Pizza"
 ]
 
-# Test
-# Test
-
 print("Categories of food we have is: Boba, Burgers, Mexican, Chinese, Pizza, Italian")
 user_input = input("What category of food do you want? ").lower()
 
